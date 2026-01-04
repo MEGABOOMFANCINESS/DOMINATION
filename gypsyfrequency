@@ -3,7 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <!-- The <title> tag defines the title of the document, shown in the browser's tab and as the main headline in search results. -->
     <title>Gravity Drop - Megaboom</title>
+
+    <!-- The <meta name="description"> tag provides a concise summary of the page content for search engines. -->
+    <meta name="description" content="A brief, engaging summary of the content on this webpage. Keep it around 155 characters.">
     
 
     <!-- Meta Pixel Code -->
@@ -173,7 +177,7 @@
 <body>
     <div class="container">
         <div class="header">
-            <h1>GRAVITY DROP</h1>
+            <h1>GYPSY FREQUENCY</h1>
             <h2>Megaboom</h2>
         </div>
 
